@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">OperacionesBasicas</string>
+    <string name="txtnum1">Numero 1</string>
+    <string name="txtnum2">Numero 2</string>
 </resources>

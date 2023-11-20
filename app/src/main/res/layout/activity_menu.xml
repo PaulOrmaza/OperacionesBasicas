@@ -37,7 +37,7 @@
         app:layout_constraintVertical_bias="0.231" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnsuma"
         android:layout_width="119dp"
         android:layout_height="66dp"
         android:backgroundTint="#45A5A5"
@@ -53,7 +53,7 @@
         app:strokeColor="#76E8DB" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/btnresta"
         android:layout_width="119dp"
         android:layout_height="66dp"
         android:backgroundTint="#45A5A5"
@@ -69,7 +69,7 @@
         app:strokeColor="#76E8DB" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/btnmult"
         android:layout_width="220dp"
         android:layout_height="67dp"
         android:backgroundTint="#45A5A5"
@@ -85,7 +85,7 @@
         app:strokeColor="#76E8DB" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/btndiv"
         android:layout_width="148dp"
         android:layout_height="62dp"
         android:backgroundTint="#45A5A5"

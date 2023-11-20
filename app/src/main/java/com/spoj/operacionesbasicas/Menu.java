@@ -49,7 +49,7 @@ public class Menu extends AppCompatActivity {
         btnDivision.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                
+
                 Intent intent = new Intent(Menu.this, Division.class);
                 startActivity(intent);
             }

@@ -22,7 +22,7 @@ public class Resta extends AppCompatActivity {
     public void calcularResta(View v){
         double num1=Double.parseDouble(edNum1.getText().toString());
         double num2=Double.parseDouble(edNum2.getText().toString());
-        double resultado=num1+num2;
+        double resultado=num1-num2;
         tvTResult.setText(resultado+"");
     }
 }

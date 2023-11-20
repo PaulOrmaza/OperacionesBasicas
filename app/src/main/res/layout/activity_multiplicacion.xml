@@ -51,6 +51,7 @@
         android:id="@+id/txtresultado4"
         android:layout_width="124dp"
         android:layout_height="65dp"
+        android:onClick="calcularMultipliacion"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
